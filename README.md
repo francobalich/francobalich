@@ -12,6 +12,13 @@
     <h1>Hola, Soy Franco Balich👋</h1>
     <h2>Este es mi GitHub</h2>
     <p>Acá podrás encontrar varios proyectos de desarrollo web en los que me encuentro trabajando actualmente.</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/E-JSfQysTK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+    <h3>Mi videos de YouTube</h3>
+    <a href="https://www.youtube.com/watch?v=EffObMj6BKA" target="blank"><img src="src/img/Aprende sobre robotica.png" alt=""></a>
+    <a href="https://www.youtube.com/watch?v=E-JSfQysTK8" target="blank"><img src="src/img/evento robots.png" alt=""></a>
+
+    <h3>Videos de mi emprendimiento</h3>
+    <a href="https://www.youtube.com/watch?v=oef3IxmZKYo" target="blank"><img src="src/img/Aprende sobre robotica y programacion.png" alt=""></a>
+    <a href="https://www.youtube.com/c/InnovativaLab/videos" target="blank"><img src="src/img/aprende sobre tinkercad.png" alt=""></a>
 </body>
 </html>
