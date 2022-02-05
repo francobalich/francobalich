@@ -15,16 +15,16 @@
         <p>Acá podrás encontrar varios proyectos en los que me encuentro trabajando, algunos de es estos son sobre: Python, Desarrollo Web, Inteligencia Artificial, ASP y Unity.</p>
         <h2>Mi videos de YouTube</h2>
         <div style="display: flex; flex-direction: row;">
-                <a style="display: inline-block;" href="https://www.youtube.com/watch?v=EffObMj6BKA" target="blank"><img style="width: 40vh;"
+                <a style="display: inline-block;" href="https://www.youtube.com/watch?v=EffObMj6BKA" target="blank"><img style="width: 44vh;"
                                 src="src/img/Aprende sobre robotica.png" alt=""></a>
-                <a style="display: inline-block;" href="https://www.youtube.com/watch?v=E-JSfQysTK8" target="blank"><img style="width: 40vh;"
+                <a style="display: inline-block;" href="https://www.youtube.com/watch?v=E-JSfQysTK8" target="blank"><img style="width: 44vh;"
                                 src="src/img/evento robots.png" alt=""></a>
         </div>
         <h2>Videos de mi emprendimiento</h2>
         <div style="display: flex; flex-direction: row;">
-                <a style="display: inline-block;" href="https://www.youtube.com/watch?v=oef3IxmZKYo" target="blank"><img style="width: 35vh;"
+                <a style="display: inline-block;" href="https://www.youtube.com/watch?v=oef3IxmZKYo" target="blank"><img style="width: 46vh;"
                                 src="src/img/Aprende sobre robotica y programacion.png" alt=""></a>
-                <a style="display: inline-block;" href="https://www.youtube.com/c/InnovativaLab/videos" target="blank"><img style="width: 35vh;"
+                <a style="display: inline-block;" href="https://www.youtube.com/c/InnovativaLab/videos" target="blank"><img style="width: 46vh;"
                                 src="src/img/aprende sobre tinkercad.png" alt=""></a>
         </div>
 </body>
