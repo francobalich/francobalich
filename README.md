@@ -22,9 +22,9 @@
         </div>
         <h2>Videos de mi emprendimiento</h2>
         <div style="display: flex; flex-direction: row;">
-                <a style="display: inline-block;" href="https://www.youtube.com/watch?v=oef3IxmZKYo" target="blank"><img style="width: 43vh;"
+                <a style="display: inline-block;" href="https://www.youtube.com/watch?v=oef3IxmZKYo" target="blank"><img style="width: 42vh;"
                                 src="src/img/Aprende sobre robotica y programacion.png" alt=""></a>
-                <a style="display: inline-block;" href="https://www.youtube.com/c/InnovativaLab/videos" target="blank"><img style="width: 43vh;"
+                <a style="display: inline-block;" href="https://www.youtube.com/c/InnovativaLab/videos" target="blank"><img style="width: 42vh;"
                                 src="src/img/aprende sobre tinkercad.png" alt=""></a>
         </div>
 </body>
