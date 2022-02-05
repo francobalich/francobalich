@@ -9,3 +9,13 @@
 body{
     padding: 40px 80px;
 }
+.videoContainer{
+    display: flex;
+    flex-direction: row;
+}
+.videoYoutube{
+    display: inline-block;
+}
+.videoYoutube img{
+    width: 100%;
+}
