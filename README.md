@@ -9,6 +9,8 @@
 </head>
 <body>
     <h1>Hola! Este es mi GitHub👋</h1>
+    <img src="/src/img/foto-de-perfil.png" alt="" srcset="">
     <p>Acá podrás encontrar varios proyectos de desarrollo web en los que me encuentro trabajando actualmente.</p>
+
 </body>
 </html>
