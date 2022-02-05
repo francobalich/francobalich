@@ -8,9 +8,10 @@
     <link rel="stylesheet" href="src/css/styles.css">
 </head>
 <body>
-    <h1>Hola! Este es mi GitHub👋</h1>
     <img src="/src/img/foto-de-perfil.png" alt="" srcset="">
+    <h1>Hola, Soy Franco Balich👋</h1>
+    <h2>Este es mi GitHub</h2>
     <p>Acá podrás encontrar varios proyectos de desarrollo web en los que me encuentro trabajando actualmente.</p>
-
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/E-JSfQysTK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
