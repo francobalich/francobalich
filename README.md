@@ -27,6 +27,7 @@
                 <a style="display: inline-block;" href="https://www.youtube.com/c/InnovativaLab/videos" target="blank"><img style="width: 90%;"
                                 src="src/img/aprende sobre tinkercad.png" alt=""></a>
         </div>
+        <img src="https://komarev.com/ghpvc/?username=francobalich&style=flat-square&color=D02929" alt="Visitors Badge"/>
 </body>
 
 </html>
