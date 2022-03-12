@@ -15,7 +15,7 @@
         <div><img style="width:250px" src="src/img/foto de perfil.png" alt=""></div>
         <div  style="padding: 20px 50px;"><p style="font-weight: bold;">💻 Tecnologías que conozco:</p>
         <p>HTML - CSS - JavaScript - Python - C# - Bootstrap - Git - Figma - Arduino - Raspberry Pi - SQL</p>
-        <p style="font-weight: bold;">🎓 Actualmente estoy aprendiendo:</p>
+        <p style="font-weight: bold;">🎓 **Actualmente estoy aprendiendo:**</p>
         <p>React - NodeJS - MySQL - MongoDB - Realidad Aumetada - Unity </p>
         <p style="font-weight: bold;">📌 Otras habilidades:</p>
         <p>Ingles - OBS - Photoshop - Da Vinci Resolve</p>
