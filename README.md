@@ -18,12 +18,12 @@
         <p style="font-weight: bold;">📌Otras habilidades:</p>
         <p>Ingles – OBS - Photoshop - Da Vinci Resolve</p>
         <p style="font-weight: bold;">🌐Redes sociales</p>
-        <p><a href="https://www.twitch.tv/francolabs" target="blank">Twitch</a> - 
-        <a href="https://www.youtube.com/channel/UCQ9vGAw1n2mihHWMgwo4W8w" target="blank">YouTube</a> - 
-        <a href="https://twitter.com/francobalich" target="blank">Twitter</a> - 
-        <a href="https://www.instagram.com/francobalich/" target="blank">Instagram</a> - 
-        <a href="https://www.tiktok.com/@francobalich?" target="blank">TikTok</a> - 
-        <a href="https://www.linkedin.com/in/franco-balich/" target="blank">LinkedIn</a></p>
+        <p><a href="https://www.twitch.tv/francolabs" target="_blank">Twitch</a> - 
+        <a href="https://www.youtube.com/channel/UCQ9vGAw1n2mihHWMgwo4W8w" target="_blank">YouTube</a> - 
+        <a href="https://twitter.com/francobalich" target="_blank">Twitter</a> - 
+        <a href="https://www.instagram.com/francobalich/" target="_blank">Instagram</a> - 
+        <a href="https://www.tiktok.com/@francobalich?" target="_blank">TikTok</a> - 
+        <a href="https://www.linkedin.com/in/franco-balich/" target="_blank">LinkedIn</a></p>
         <img src="https://komarev.com/ghpvc/?username=francobalich&style=flat-square&color=0a65fe" alt="Visitors Badge"/>
 </body>
 </html>
