@@ -11,7 +11,6 @@
         <h1>Hola! Soy Franco <img style="width:30px" src="src/img/Hi.gif" alt=""></h1>
         <h2>Tengo 23 años y soy de Buenos Aires, Argentina🌎</h2>
         <h3 style="font-weight: bold;">Desarrollador frontend | Investigador en robótica educativa | Emprendedor | Creador de contenido en redes sociales | Streamer</h3>
-        <img style="width:250px" src="src/img/foto de perfil.png" alt=""></div>
         <h3>💻 Tecnologías que conozco:</h3>
         <p>HTML - CSS - JavaScript - Python - C# - Bootstrap - Git - Figma - Arduino - Raspberry Pi - SQL</p>
         <h3>🎓 Actualmente estoy aprendiendo:</h3>
