@@ -9,7 +9,7 @@
 <body>
         <img src="/src/img/foto-de-perfil.png" alt="" srcset="">
         <h1>Hola! Soy Franco <img style="width:30px" src="src/img/Hi.gif" alt=""></h1>
-        <h2>Tengo 23 años y soy de Buenos Aires, Argentina🌎</h2>
+        <h2>Tengo 24 años y soy de Buenos Aires, Argentina🌎</h2>
         <h3 style="font-weight: bold;">Desarrollador frontend | Investigador en robótica educativa | Emprendedor | Creador de contenido en redes sociales | Streamer</h3>
         <h3>💻 Tecnologías que conozco:</h3>
         <p>HTML - CSS - JavaScript - Python - C# - Bootstrap - Git - Figma - Arduino - Raspberry Pi - SQL</p>
