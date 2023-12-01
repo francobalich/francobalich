@@ -11,19 +11,18 @@
 <body>
     <img src="/src/img/foto-de-perfil.png" alt="" srcset="">
     <h1>¡Hola! Soy Franco<img style="width:30px" src="src/img/Hi.gif" alt=""></h1>
-    <h2 style="font-weight: bold;">Desarrollador Backend/Frontend, Emprendedor, Profesor e Investigador y Creador de contenido</h2>
+    <h2 style="font-weight: bold;">Desarrollador Backend/Frontend, Emprendedor, Profesor e Investigador y Creador de
+        contenido</h2>
     <h3>Tengo 25 años y soy de Buenos Aires 🇦🇷</h3>
-
-    <h3>📣Soft Skills</h3>
-    <p>Trabajo en equipo, comunicación efectiva, iniciativa, aprendizaje continuo, liderazgo, planificación y organización, creatividad e innovación, pasión por aprender y capacitación de alumnos.</p>
+    <h4>📣Soft Skills</h4>
+    <p>Trabajo en equipo, comunicación efectiva, iniciativa, aprendizaje continuo, liderazgo, planificación y
+        organización, creatividad e innovación, pasión por aprender y capacitación de alumnos.</p>
     <h3>💻Hard Skills</h3>
     <p>JavaScript, HTML, CSS, Node JS, Express, React, SQL, MongoDB, C#, Git y GitHub.</p>
-
     <h3>📌Tecnologías que conozco</h3>
     <p>TypeScript, Python, Bootstrap, MaterialUI, Figma, TensorFlow, Keras, Arduino, Raspberry Pi y SolidWorks.</p>
     <h3>🎓 Interesado en aprender</h3>
     <p>Unity, WordPress, React Native, Next JS y Nest JS</p>
-    
     <h3>🌐 Redes sociales:</h3>
     <p><a href="https://www.twitch.tv/francolabs" target="_blank">Twitch</a> -
         <a href="https://www.youtube.com/channel/UCQ9vGAw1n2mihHWMgwo4W8w" target="_blank">YouTube</a> -
