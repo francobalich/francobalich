@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Franco<br><h3>Desarrollador Backend/Frontend, Emprendedor, Profesor e Investigador y Creador de contenido</h3>Tengo 25 años y soy de Buenos Aires 🇦🇷<br><h3>📣Soft Skills</h3><br>Trabajo en equipo, comunicación efectiva, iniciativa, aprendizaje continuo, liderazgo, planificación y organización, creatividad e innovación, pasión por aprender y capacitación de alumnos.<br><h3>💻Hard Skills</h3><br><br>JavaScript, HTML, CSS, Node JS, Express, React, SQL, MongoDB, C#, Git y GitHub.<br><h3>📌Tecnologías que conozco</h3><br>TypeScript, Python, Bootstrap, MaterialUI, Figma, TensorFlow, Keras, Arduino, Raspberry Pi y SolidWorks.<br><h3>🎓 Interesado en aprender<br><br>Unity, WordPress, React Native, Next JS y Nest JS</h3>
+¡Hola! Soy Franco<br><h3>Desarrollador Backend/Frontend, Emprendedor, Profesor e Investigador y Creador de contenido</h3>Tengo 25 años y soy de Buenos Aires 🇦🇷<br><h3>📣Soft Skills</h3><br>Trabajo en equipo, comunicación efectiva, iniciativa, aprendizaje continuo, liderazgo, planificación y organización, creatividad e innovación, pasión por aprender y capacitación de alumnos.<h3>💻Hard Skills</h3><br>JavaScript, HTML, CSS, Node JS, Express, React, SQL, MongoDB, C#, Git y GitHub.<br><h3>🎓 Interesado en aprender<br>Unity, WordPress, React Native, Next JS y Nest JS</h3>
 
 
 ## 🌐 Socials:
