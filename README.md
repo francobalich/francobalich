@@ -1,7 +1,7 @@
 # ¡Hola! Soy Franco👋
 ### Desarrollador FullStack, Emprendedor, Profesor, Investigador y Creador de contenido.
 
-#### Tengo 25 años y soy de Buenos Aires, Argentina 🇦🇷
+#### Tengo 26 años y soy de Buenos Aires, Argentina 🇦🇷
 
 ## 📣Soft Skills
 Trabajo en equipo, comunicación efectiva, iniciativa, aprendizaje continuo, liderazgo, planificación y organización, creatividad e innovación, pasión por aprender y capacitación de alumnos.
