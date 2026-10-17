@@ -2,7 +2,7 @@
 
 ### Desarrollador FullStack | Emprendedor | Profesor | Investigador | Creador de contenido sobre tecnología
 
-#### 27 años | Buenos Aires, Argentina 🇦🇷
+#### 28 años | Buenos Aires, Argentina 🇦🇷
 
 ## 🚀 Sobre mí
 
